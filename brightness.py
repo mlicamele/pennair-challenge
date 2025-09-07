@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 FILE_DIR = "data"
-OUTPUT_DIR = os.path.join("output", "best_combo")
+OUTPUT_DIR = os.path.join("output", "brightness")
 FILE_NAMES = ["PennAir 2024 App Static.png", "PennAir 2024 App Static.png", "PennAir 2024 App Dynamic.mp4", "PennAir 2024 App Dynamic.mp4"]
 
 # Intrinsic Matrix

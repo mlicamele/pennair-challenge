@@ -148,14 +148,16 @@ Due to the immense erosion and smoothing needed to separate the shapes from nois
 Embedded videos showing algorithm performance:
 - `annotated_PennAir 2024 App Static.png` - Annotated 2D Image
 - <img width="1920" height="1080" alt="annotated_PennAir 2024 App Static" src="https://github.com/user-attachments/assets/dc11667d-dad8-4bfa-a003-ed6975d3ac36" />
-
 - `annotated_3D_PennAir 2024 App Static.png` - Annotated 3D Image
 - <img width="1920" height="1080" alt="annotated_3D_PennAir 2024 App Static" src="https://github.com/user-attachments/assets/4da81c33-14ae-4cbd-abac-43d0b4e41e02" />
-
 - `annotated_PennAir 2024 App Dynamic.mp4` - Annotated 2D Video (Grassy Background)
+- https://drive.google.com/file/d/1P4PgXGRhAnYa9YkciJv9LvLuX2-dodLo/view?usp=sharing
 - `annotated_3D_PennAir 2024 App Dynamic.mp4` - Annotated 3D Video (Grassy Background)
-- `annotated_PennAir 2024 App Dynamic Hard.mp4` - Annotated 3D Video (Agnostic Background)
+- https://drive.google.com/file/d/13NO2UYgMc-OgZJYMp12OTZuvE64UsfIq/view?usp=sharing
+- `annotated_PennAir 2024 App Dynamic Hard.mp4` - Annotated 2D Video (Agnostic Background)
+- https://drive.google.com/file/d/1NIii37iXX1T6P8bcjSUwjpJ3iz7jMShA/view?usp=sharing
 - `annotated_3D_PennAir 2024 App Dynamic Hard.mp4` - Annotated 3D Video (Agnostic Background)
+- https://drive.google.com/file/d/1aIMZ4puGr5W4VHJ0-qbKVdgkgvqZcZ8m/view?usp=sharing 
 
 ## Future Improvements
 

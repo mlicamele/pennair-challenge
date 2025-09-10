@@ -1,8 +1,6 @@
-# PennAiR Software Challenge - Shape Detection
+# pennair-challenge
 
-## Overview
-
-This project utilizes a computer vision algorithm to detect shapes on different backgrounds. It then traces their outlines, marks the center of each shape, and provides 3D coordinates.
+Computer vision challenge identifying shapes on various backgrounds with opencv.
 
 ## Implementation Summary
 
